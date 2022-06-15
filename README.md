@@ -1,18 +1,61 @@
-### Hi there 👋
 
-<!--
-**ygeslin/ygeslin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Yann Geslin</h1>
+<h4 align="center">A passionate junior developer</h4>
+<h4 align="center">Sudent at 42 Paris</h4>
 
-Here are some ideas to get you started:
+<h4 align="center"> 📫 You can contact me at
+<a href="mailto:yann.geslin@hotmail.fr">
+<b>yann.geslin@hotmail.fr</b>
+</a>
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[test](../42_School_Common_Core_Projects/cpp/)
+<p align="center">
+<span>
+<img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yann geslin" height="12" width="16" />
+<b>Connect with me on</b>
+<a href="https://www.linkedin.com/in/yann-geslin/">
+<b>Linkedin</b>
+</a>
+</span>
+</p>
+
+<h4 align="center"><b>Languages and Tools:</b></h4>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<br>
+
+<h3 align="left"><b>42 School Projects</b></h3>
+
+<p align="left">
+<img src=" https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/stats?cursusId=21&coalitionId=12 ">
+</p>
+
+### Here are some of my projects eyes :
+
+
+|Subject / Link|Summary|Grade   |
+|-------|-------|--------|
+| [ft_transcendence](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/ft_transcendence) | Code an SPA website with pong game, chat interface and a user/friend system  | [![ygeslin's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507800)](https://github.com/JaeSeoKim/badge42)|
+| [webserv](webserv) | Recode from scratch a small nginx-like http server in C++ | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
+|[ft_containers](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/ft_containers) | Recode from scratch various container types of the C++ STL Library (in C++98) | [![ygeslin's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329827)](https://github.com/JaeSeoKim/badge42) |
+| [CPP Piscine](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/cpp) | Introduction to Object-Oriented Programming | [![ygeslin's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024109)](https://github.com/JaeSeoKim/badge42) |
+| [Philosophers](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/Philosophers) | Learn the basics of threading a process, mutex, semaphores | [![ygeslin's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2160926)](https://github.com/JaeSeoKim/badge42) |
+| [ft_services](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/ft_services) | Deploying and monitoring a website using a cluster of services with Kubernetes | [![ygeslin's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024109)](https://github.com/JaeSeoKim/badge42) |
+| [minishell](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/Minishell) | Recode a shell that behave like bash | [![ygeslin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024111)](https://github.com/JaeSeoKim/badge42) |
+| [libasm](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/libasm) | Introduction to assembly language | [![ygeslin's 42 libasm Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024108)](https://github.com/JaeSeoKim/badge42) |
+| [Cub3D](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/cub3d) | Small 3D game using Raycasting like Wolfenstein 3D | [![ygeslin's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864381)](https://github.com/JaeSeoKim/badge42)|
+| [ft_server](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/ft_server) | Introduction to system administration (Docker, WordPress, PhpMyAdmin, mysql) | [![ygeslin's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864374)](https://github.com/JaeSeoKim/badge42) |
+| [get_next_line](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/Get_next_line) | Code a function which read on file descriptor, line by line | [![ygeslin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1627531)](https://github.com/JaeSeoKim/badge42) |
+| [ft_printf](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/ft_printf) | Recode from scratch printf function of C standard library | [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
+| [Libft](https://github.com/ygeslin/42_School_Common_Core_Projects/tree/main/libft) | Recode from scratch functions of the C standard library | [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)|
+
+
+<!-- ## **Exams**
+|Rank		|Grade   |
+|-------|--------|
+| Exam Rank 06 | [![ygeslin's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507799)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 05 | [![ygeslin's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329828)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 04 | [![ygeslin's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2201147)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 03 | [![ygeslin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2074295)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 02 | [![ygeslin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864377)](https://github.com/JaeSeoKim/badge42) | -->
