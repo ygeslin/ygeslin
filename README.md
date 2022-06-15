@@ -27,9 +27,7 @@
 
 <h3 align="left"><b>42 School Projects</b></h3>
 
-<p align="left">
 <img src=" https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/stats?cursusId=21&coalitionId=12 ">
-</p>
 
 ### Here are some of my projects 👀:
 
