@@ -29,8 +29,6 @@
 
 <img src="https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/stats?cursusId=21&coalitionId=12">
 
-![badge](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/stats?cursusId=21&coalitionId=12)
-
 ### Here are some of my projects 👀:
 
 
